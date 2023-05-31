@@ -1,4 +1,4 @@
-
+[
     {
         "data": {
             "id": "PJ-mindMap",
@@ -14,3 +14,4 @@
     {
         "data": { "id": "PJ-mindMap->ISSUE-packageJson", "source": "ISSUE-packageJson", "target": "PJ-mindMap" }
     }
+]
